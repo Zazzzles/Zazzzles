@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://res.cloudinary.com/pullforge/image/upload/v1621549928/Portfolio/cover-bg_buyudm.jpg" width="100%" title="hover text">
-</p>
+
 
 <!--
 **Zazzzles/Zazzzles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
