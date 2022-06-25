@@ -1,5 +1,5 @@
 
-  <img src="https://res.cloudinary.com/pullforge/image/upload/v1656120474/4_z8pkip.png"  alt="accessibility text">
+  <img src="https://res.cloudinary.com/pullforge/image/upload/v1656120474/4_z8pkip.png"  style="border-radius: 10px" alt="accessibility text">
 
 
 <!--
