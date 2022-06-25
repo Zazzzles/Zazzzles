@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://res.cloudinary.com/pullforge/image/upload/v1621549929/Portfolio/logo2_eurckv.png" width="350" title="hover text">
+  <img src="https://res.cloudinary.com/pullforge/image/upload/v1621549928/Portfolio/cover-bg_buyudm.jpg" width="100%" title="hover text">
 </p>
 
 <!--
