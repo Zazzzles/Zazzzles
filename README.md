@@ -1,4 +1,7 @@
-### Hi there 👋
+
+<p align="center">
+  <img src="https://res.cloudinary.com/pullforge/image/upload/v1621549929/Portfolio/logo2_eurckv.png" width="350" title="hover text">
+</p>
 
 <!--
 **Zazzzles/Zazzzles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
