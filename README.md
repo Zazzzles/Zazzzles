@@ -1,2 +1,2 @@
 
-  <img src="keys.gif" alt="Cover image">
+  <img src="anim.gif" alt="Cover image">
